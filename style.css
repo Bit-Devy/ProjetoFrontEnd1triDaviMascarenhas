@@ -1,0 +1,23 @@
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.p-teste {
+    color: aqua;
+}
+
+.teste-botao {
+    font-size: 30px;
+    padding: 10px;
+}
+
+img {
+    width: 500px;
+    margin: 20px 0;
+}
